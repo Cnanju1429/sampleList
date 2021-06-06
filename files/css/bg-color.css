@@ -1,0 +1,106 @@
+@charset "utf-8";
+
+/* ==================================================
+
+【bg-white】　<body class="bg-white">
+
+================================================== */
+
+body.bg-white{
+    background-color:#FFF;
+    color:#333;
+}
+body.bg-white ul.sideMenu {
+    background-color: #fff; 
+}
+
+
+
+/* ==================================================
+
+【bg-yellow】　<body class="bg-yellow">
+
+================================================== */
+
+body.bg-yellow{
+    background-color:#faf266;
+    color:#333;
+}
+body.bg-yellow a {color:#333; text-decoration: underline;}
+
+body.bg-yellow .secWrapper.topSec01 {background-color: #faf266;}
+body.bg-yellow .secWrapper.topSec03 {background-color: #faf266;}
+body.bg-yellow .secWrapper.topSec05 {background-color: #faf266;}
+
+
+
+/* ==================================================
+
+【bg-blue】　<body class="bg-blue">
+
+================================================== */
+
+body.bg-blue{
+    background-color:#00a0e9;
+    color:#000;
+}
+body.bg-blue a {color:#333; text-decoration: underline;}
+
+body.bg-blue #pcHeader .hdr_discription .jp {color: #fff;}
+body.bg-blue .pcGlobal > ul > li > a {color: #fff;}
+body.bg-blue .arwBtn {color: #fff;}
+body.bg-blue .btn .arwBtn {color: #000;}
+body.bg-blue .greeting .arwBtn {color: #000;}
+body.bg-blue #pcHeader .hdr_option .buttons01 dl.size dt {color: #fff;}
+body.bg-blue #pcHeader .hdr_option .buttons01 dl.size dt {color: #fff;}
+body.bg-blue #pcHeader .hdr_option .buttons01 dl.color dt {color: #fff;}
+body.bg-blue ul.pcGlobal2nd a {color:#000;}
+body.bg-blue .reception .attention,.reception .holiday {color: #000;}
+body.bg-blue .ftr2Col,.ftr2Col a {color:#000;}
+body.bg-blue h5.tit05 > span {color:#fff;}
+body.bg-blue .tbl-basic tbody th {color:#000;}
+body.bg-blue ul.ftrNav > li a {color:#000;}
+body.bg-blue .img-content .img span.cap {color: #fff;}
+body.bg-blue h6.tit06 {color:#fff;}
+body.bg-blue a.txtLink {color:#fff;}
+
+body.bg-blue .secWrapper.topSec01 {background-color: #00a0e9;}
+body.bg-blue .secWrapper.topSec03 {background-color: #00a0e9;}
+body.bg-blue .secWrapper.topSec05 {background-color: #00a0e9;}
+
+
+
+/* ==================================================
+
+【bg-black】　<body class="bg-black">
+
+================================================== */
+
+body.bg-black{
+    background-color:#000;
+    color:#fff;
+}
+
+body.bg-black a {color:#fff; text-decoration: underline;}
+
+body.bg-black #pcHeader .hdr_discription .jp {color: #fff;}
+body.bg-black .pcGlobal > ul > li > a {color: #fff;}
+body.bg-black .arwBtn {color: #fff;}
+body.bg-black .btn .arwBtn {color: #000;}
+body.bg-black .greeting .arwBtn {color: #000;}
+body.bg-black #pcHeader .hdr_option .buttons01 dl.size dt {color: #fff;}
+body.bg-black #pcHeader .hdr_option .buttons01 dl.size dt {color: #fff;}
+body.bg-black #pcHeader .hdr_option .buttons01 dl.color dt {color: #fff;}
+body.bg-black ul.pcGlobal2nd a {color:#000;}
+body.bg-black .reception .attention,.reception .holiday {color: #000;}
+body.bg-black .ftr2Col,.ftr2Col a {color:#000;}
+body.bg-black h5.tit05 > span {color:#fff;}
+body.bg-black .tbl-basic tbody th {color:#000;}
+body.bg-black ul.ftrNav > li a {color:#000;}
+body.bg-black .img-content .img span.cap {color: #fff;}
+body.bg-black h6.tit06 {color:#fff;}
+body.bg-black a.txtLink {color:#fff;}
+
+body.bg-black .secWrapper.topSec01 {background-color: #000;}
+body.bg-black .secWrapper.topSec03 {background-color: #000;}
+body.bg-black .secWrapper.topSec05 {background-color: #000;}
